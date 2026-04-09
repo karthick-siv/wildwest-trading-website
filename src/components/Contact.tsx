@@ -6,8 +6,8 @@ const Contact = () => {
         <div className="space-y-4 text-muted-foreground text-base">
           <p>
             <span className="font-medium text-foreground">Email: </span>
-            <a href="mailto:info@wildwesttrading.xyz" className="hover:text-primary transition-colors">
-              info@wildwesttrading.xyz
+            <a href="mailto:admin@wildwesttrading.xyz" className="hover:text-primary transition-colors">
+              admin@wildwesttrading.xyz
             </a>
           </p>
           <p>
